@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Send_Message.iml" filepath="$PROJECT_DIR$/.idea/Send_Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server_sendMessage/Server_sendMessage.iml" filepath="$PROJECT_DIR$/Server_sendMessage/Server_sendMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_sendMessage/client_sendMessage.iml" filepath="$PROJECT_DIR$/client_sendMessage/client_sendMessage.iml" />
     </modules>
   </component>
 </project>

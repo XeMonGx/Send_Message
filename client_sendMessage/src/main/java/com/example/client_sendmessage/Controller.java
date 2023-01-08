@@ -36,7 +36,7 @@ public class Controller implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         try {
-            client = new Client(new Socket("localhost",1666));
+            client = new Client(new Socket("192.168.0.39",1666));
             System.out.println("connected");
         }catch (IOException e){
             e.printStackTrace();

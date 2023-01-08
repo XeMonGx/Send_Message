@@ -49,7 +49,6 @@ public class Client {
                         closeEverythingth(client,writer,reader);
                         break;
                     }
-
                 }
             }
         }).start();
